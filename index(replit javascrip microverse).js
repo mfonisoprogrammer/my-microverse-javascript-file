@@ -1,0 +1,10 @@
+let greeting = ("Hello my name is");
+let myname = ("Mfonisoprogrammer");
+let lastname =(" Ekere");
+let fullname = (myname + lastname);
+let str = ("i have");
+let x = 20;
+let y = 2;
+let z = x * y;
+let fruits =("apples");
+console.log(greeting, fullname, str ,z ,fruits);
